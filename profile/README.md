@@ -2,7 +2,8 @@
 
 Welcome to DiscordExtras – Your Gateway to BetterDiscord Enhancements!
 
-![DiscordExtras Logo](https://github.com/discordextras/.github/assets/63515814/e6b825f8-60fb-49c0-b123-37f28c37444c)
+![DiscordExtras Logo](https://github.com/discordextras/.github/assets/63515814/f58d2e42-7052-442e-81ef-1dce105501d9)
+
 
 
 ## About
